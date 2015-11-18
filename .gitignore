@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+
+docs/build
+docs/source/_static
+docs/source/_templates
